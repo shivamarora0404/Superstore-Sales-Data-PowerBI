@@ -48,6 +48,9 @@ The project combines **descriptive analytics** and **predictive forecasting** to
 
 📊 Dashboard Preview
 
+![image alt](https://raw.githubusercontent.com/shivamarora0404/Superstore-Sales-Data-PowerBI/refs/heads/main/1.jpg)
+![image alt](https://github.com/shivamarora0404/Superstore-Sales-Data-PowerBI/blob/main/2.jpg?raw=true)
+
 
 
 
